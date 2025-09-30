@@ -9,7 +9,7 @@
     "bootstrap": "^4.4.1",
     "chroma-js": "^2.1.0",
     "d3": "^5.14.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "react": "^16.12.0",
     "react-bootstrap": "^1.0.0-beta.16",
     "react-dom": "^16.12.0",
